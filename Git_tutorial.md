@@ -28,4 +28,8 @@
 
 * Команда *git log --graph* графически отображает развитие веток
 
+
 * Команда *git merge branch_name сливает текущую ветку с веткой branch_name
+
+* Команда *git branch branch_name -создает ветку с именем branch_name
+
