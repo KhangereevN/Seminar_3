@@ -43,3 +43,12 @@ ____
 ____
 
 * эта строка добавлена из побочной ветки
+____
+
+Создаем удаленный репозиторий командами  git remote add origin https://github.com/KhangereevN/Seminar_3.git
+
+далее git branch -M master
+
+затем git push -u origin master
+
+После привязки VSC с GitHub, на сайте появится удаленный репозиторий.
